@@ -1,26 +1,22 @@
 PRO Version Features
 ===================================
 
-**Shadow Robot**'s premium features
+Items command
 ----------------------
 
-- Items command
+  print the current stored items of a category
   
-.. code-block:: console
-
-   print the current stored items of a category
-   
-- Database Limit Increased
-
-.. code-block:: console
+Database Limit Increased
+----------------------
 
    increases the database limit to 5 while the standard version's limit is 2
    
-- Advertising
+Advertising
+----------------------
 
-pro version's clients have the ability to enroll to advertising
+  pro version's clients have the ability to enroll to advertising
 
-How this works ?
+  How this works ?
 
 .. code-block:: console
 
