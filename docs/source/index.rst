@@ -15,5 +15,5 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   commands
+   pro-features
