@@ -21,6 +21,7 @@ PRO Version Features
 pro version's clients have the ability to enroll to advertising
 
 How this works ?
+
 .. code-block:: console
 
    when users receive the items they will get an advertisement along with the item
