@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
+Shadow-Robot Readthedocs
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This a readthedocs page for the discord bot shadow-robot
 
 Read the tutorial here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://shadow-robot-docs.readthedocs.io/
